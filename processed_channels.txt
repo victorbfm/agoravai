@@ -1,0 +1,58 @@
+if channels:
+    # Salva os canais processados no arquivo somente se houver novos canais
+    save_processed_channels(new_processed_channels)
+    print(f"{len(new_processed_channels)} novos canais processados foram salvos.")
+else:
+    print("Nenhum novo canal foi encontrado ou processado.")
+UCEhVEhO_fUet3LmJI70a_5w
+UCCt3wSm0yoXn2ALvlQYT-KA
+UCJSJFasQijzQHBHrTCW_Hrg
+UCjbnazLwevrhQxGfbws_VmQ
+UCQ6CxY2mfU7gWTTSc70lv0w
+UC4tMPvF5kdLww6IbV7xxGsw
+UCZHCaC9ZsDjMMQ4w7V8H3Ig
+UCPjFFQQbEnf2mPtrDncSn6w
+UCRpuxdZGkUpiqPfsrqe1xoQ
+UCBFcL3nMWFcNnoWOEtacp1w
+UCw398VYlwdG-VZa4HinrL0w
+UCA2W7cznuwJpXrjAOmntb1w
+UC6d1_nHab5Q9FQw6N0vCGzw
+UCXzbpI8_lV6z9K6-3vFUcJw
+UCJCc9LUaAZKU9XFNhQ1ovzg
+UCI2NNtfcLlI3twXzut_cpeQ
+UCsHi6eb4FMHWXO0iUzJNRjw
+UCqjf98CzwmIUMKtDtHCFxfw
+UCc3msPTAvP4_XPMgpCz_h0g
+UCkRvNCdfSP8cbbfDr-8Lx8g
+UCZ_X1jCLGzwwX8ktquTBsng
+UCMTEVk6HFsuiVg9oIx7bntA
+UCMQBkmpYBJlxxthLcg_IV7Q
+UCuS5fmeEDpnW5JPMdRhGm7A
+UCvPT50-CaL58ndfcfDiMDAg
+UCKK25Prf-UD9Qak0W1d02KQ
+UCq88JUfvzjK1bheVJQJPAnQ
+UCu1bU86aAq0fRuvi7GCEW_Q
+UC1a9pNP-At6FzfsZwjEmX8g
+UCoLX0U3dsnPlV4H9_HmNMjw
+UCeW2XVfsOkghlDuw6N7b_ag
+UCdmGHoYdhb__gr8e-GKxaBQ
+UCLsnJt_eyqkGZ4ZEM__xCOg
+UCLixIM8ZIGs6DJFKzQxPYqQ
+UCQuOmUpGrVuFTiwj_qlGmnw
+UCQm8rQBRn_qRHMOWdnYtA_w
+UCMcc9elPZGpg6eU4i3YaCpA
+UCsIoK3XP-cVcpoCC_SdjZdg
+UC0iorZaRBYKb5wPqqWyxdKA
+UC_UrnIsrdD0S_bK8KHrNqCg
+UC_tmoh3TPWqgPT6wwvPbIaA
+UCYzaCHvXyXkvaTS75avmipA
+UCN-p-fxcoKT4Ltg1vPZIxGQ
+UC0bgsQNx1PHySXjwc8V-udQ
+UC2I1Ye8xVHLC-iQJXMLT-Gg
+UCJ4mgk8gPP7BEc-ULOgCVEw
+UCZfVZzrCLkiokPr4A2h6PuA
+UC4-7BXqvKC20gVA6-SOP7BA
+UC8yqIBH2OpQyfGTldMMo-fg
+UCuzYeWjtDCyjLm_mlMLkCDw
+UC9ZE4dWr8ONWHdcLHqh4sBA
+UCfpZ-S_HZyFstBh24o_1zGQ
